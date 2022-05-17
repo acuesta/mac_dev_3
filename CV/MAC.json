@@ -1,0 +1,62 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Álvaro",
+      "surnames": "Cuesta Viñolo",
+      "title": "Headline test ",
+      "description": "myself",
+      "avatar": {
+        "alt": "acumbamailError.png",
+        "link": "https://test-asgard-media.s3.eu-west-1.amazonaws.com/22/05/17/aca36671-6b77-49cd-ac85-4b81c05d2190_acumbamailerror.png"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Books",
+        "fact": "El coleccionista de tricotosas"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
